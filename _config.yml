@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Fujun Han's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Fujun Han"
   pronouns         : # example: "she/her"  
-  bio              : "good good study, day day up!"
+  bio              : "Good Good Study, Day Day Up!"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
