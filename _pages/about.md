@@ -13,17 +13,17 @@ Publication List:
 
 ## 2025 Year
 
-[1] In September 2025, a paper was accepted by NeurIPS 2025 (CCF-A);
+*[1]* In September 2025, a paper was accepted by NeurIPS 2025 (CCF-A);
 
-[2] In September 2025, a paper was accepted by IEEE Transactions on Geoscience and Remote Sensing (CCF-B);
+*[2]* In September 2025, a paper was accepted by IEEE Transactions on Geoscience and Remote Sensing (CCF-B);
 
-[3] In August 2025, a paper was accepted by the IEEE International Conference on Data Mining (CCF-B);
+*[3]* In August 2025, a paper was accepted by the IEEE International Conference on Data Mining (CCF-B);
 
-[4] In July 2025, a paper was accepted by the IEEE Transactions on Emerging Topics in Computational Intelligence;
+*[4]* In July 2025, a paper was accepted by the IEEE Transactions on Emerging Topics in Computational Intelligence;
 
-[5] In July 2025, a paper was accepted by ACM Multimedia 2025 (CCF-A);
+*[5]* In July 2025, a paper was accepted by ACM Multimedia 2025 (CCF-A);
 
-[6] In May 2025, a paper was accepted by the IEEE Sensors Journal;
+*[6]* In May 2025, a paper was accepted by the IEEE Sensors Journal;
 
 ## 2024 Year
 
