@@ -34,3 +34,7 @@ Publication List:
 [9] In May 2024, a paper was accepted by IEEE Transactions on Automation Science and Engineering (CCF-B)
 
 [10] In February 2024, a paper was accepted by the IEEE Transactions on Intelligent Vehicles
+
+# 2020 Year
+
+[11] In July 2025, a paper was accepted by the Journal of Cleaner Production
