@@ -13,7 +13,7 @@ Publication List:
 
 ### 2025 Year
 
-[1] In September 2025, a paper was accepted by *NeurIPS 2025* **(CCF-A)**;
+<font size=8>[1] In September 2025, a paper was accepted by *NeurIPS 2025* **(CCF-A)**;</font>
 
 [2] In September 2025, a paper was accepted by *IEEE Transactions on Geoscience and Remote Sensing* **(CCF-B)**;
 
