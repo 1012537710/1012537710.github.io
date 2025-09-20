@@ -37,4 +37,4 @@ Publication List:
 
 # 2020 Year
 
-[11] In July 2025, a paper was accepted by the Journal of Cleaner Production
+[11] In July 2020, a paper was accepted by the Journal of Cleaner Production
