@@ -11,7 +11,7 @@ I am currently a Postdoctoral Fellow at [The Chinese University of Hong Kong, Sh
 
 Publication List:
 
-### 2025 Year
+#### 2025 Year
 
 [1] In September 2025, a paper was accepted by *NeurIPS 2025* **(CCF-A)**;
 
