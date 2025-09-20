@@ -11,30 +11,30 @@ I am currently a Postdoctoral Fellow at [The Chinese University of Hong Kong](ht
 
 Publication List:
 
-# 2025 Year
+## 2025 Year
 
-[1] In September 2025, a paper was accepted by NeurIPS 2025 (CCF-A)
+[1] In September 2025, a paper was accepted by NeurIPS 2025 (CCF-A);
 
-[2] In September 2025, a paper was accepted by IEEE Transactions on Geoscience and Remote Sensing (CCF-B)
+[2] In September 2025, a paper was accepted by IEEE Transactions on Geoscience and Remote Sensing (CCF-B);
 
-[3] In August 2025, a paper was accepted by the IEEE International Conference on Data Mining (CCF-B)
+[3] In August 2025, a paper was accepted by the IEEE International Conference on Data Mining (CCF-B);
 
-[4] In July 2025, a paper was accepted by the IEEE Transactions on Emerging Topics in Computational Intelligence
+[4] In July 2025, a paper was accepted by the IEEE Transactions on Emerging Topics in Computational Intelligence;
 
-[5] In July 2025, a paper was accepted by ACM Multimedia 2025 (CCF-A)
+[5] In July 2025, a paper was accepted by ACM Multimedia 2025 (CCF-A);
 
-[6] In May 2025, a paper was accepted by the IEEE Sensors Journal
+[6] In May 2025, a paper was accepted by the IEEE Sensors Journal;
 
 ## 2024 Year
 
-[7] In July 2024, a paper was accepted by ACM Multimedia 2024 (CCF-A) and selected for Oral presentation (Only 3.97%)
+[7] In July 2024, a paper was accepted by ACM Multimedia 2024 and selected for **Oral** presentation (Only 3.97%) (CCF-A);
 
-[8] In May 2024, a paper was accepted by the IEEE Transactions on Circuits and Systems for Video Technology (CCF-B)
+[8] In May 2024, a paper was accepted by the IEEE Transactions on Circuits and Systems for Video Technology (CCF-B);
 
-[9] In May 2024, a paper was accepted by IEEE Transactions on Automation Science and Engineering (CCF-B)
+[9] In May 2024, a paper was accepted by IEEE Transactions on Automation Science and Engineering (CCF-B);
 
-[10] In February 2024, a paper was accepted by the IEEE Transactions on Intelligent Vehicles
+[10] In February 2024, a paper was accepted by the IEEE Transactions on Intelligent Vehicles;
 
 ## 2020 Year
 
-[11] In July 2020, a paper was accepted by the Journal of Cleaner Production
+[11] In July 2020, a paper was accepted by the Journal of Cleaner Production.
