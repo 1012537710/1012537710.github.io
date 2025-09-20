@@ -11,8 +11,6 @@ I am currently a Postdoctoral Fellow at [The Chinese University of Hong Kong](ht
 
 Publication List:
 
--
-
 # 2025 Year
 
 [1] In September 2025, a paper was accepted by NeurIPS 2025 (CCF-A)
@@ -27,8 +25,6 @@ Publication List:
 
 [6] In May 2025, a paper was accepted by the IEEE Sensors Journal
 
--
-
 ## 2024 Year
 
 [7] In July 2024, a paper was accepted by ACM Multimedia 2024 (CCF-A) and selected for Oral presentation (Only 3.97%)
@@ -40,7 +36,5 @@ Publication List:
 [10] In February 2024, a paper was accepted by the IEEE Transactions on Intelligent Vehicles
 
 ## 2020 Year
-
--
 
 [11] In July 2020, a paper was accepted by the Journal of Cleaner Production
