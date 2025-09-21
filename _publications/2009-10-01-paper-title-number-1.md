@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-1
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2024-10-01
+date: 2024-10-28
 venue: 'ACM International Conference on Multimedia (ACM MM) (Oral)'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3664647.3681272'
