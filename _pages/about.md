@@ -13,17 +13,17 @@ I am currently a Postdoctoral Fellow at [The Chinese University of Hong Kong, Sh
 
 ### 2025 Year
 
-[1] In 19 September 2025, a paper was accepted by *NeurIPS 2025* **(CCF-A)**;
+[1] On 19 September 2025, a paper was accepted by *NeurIPS 2025* **(CCF-A)**;
 
-[2] In 11 September 2025, a paper was accepted by *IEEE Transactions on Geoscience and Remote Sensing* **(CCF-B)**;
+[2] On 11 September 2025, a paper was accepted by *IEEE Transactions on Geoscience and Remote Sensing* **(CCF-B)**;
 
-[3] In 04 September 2025, a paper was accepted by the *IEEE Transactions on Emerging Topics in Computational Intelligence*;
+[3] On 04 September 2025, a paper was accepted by the *IEEE Transactions on Emerging Topics in Computational Intelligence*;
 
-[4] In 26 August 2025, a paper was accepted by the *IEEE International Conference on Data Mining* **(CCF-B)**;
+[4] On 26 August 2025, a paper was accepted by the *IEEE International Conference on Data Mining* **(CCF-B)**;
 
-[5] In 05 July 2025, a paper was accepted by *ACM Multimedia 2025* **(CCF-A)**;
+[5] On 05 July 2025, a paper was accepted by *ACM Multimedia 2025* **(CCF-A)**;
 
-[6] In 20 May 2025, a paper was accepted by the *IEEE Sensors Journal*;
+[6] On 20 May 2025, a paper was accepted by the *IEEE Sensors Journal*;
 
 ### 2024 Year
 
