@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-4
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2025-08-18
+date: 2025-08-26
 venue: 'IEEE International Conference on Data Mining (ICDM)'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 #paperurl: 'https://arxiv.org/abs/2508.00308'
