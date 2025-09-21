@@ -3,7 +3,7 @@ title: "Parameters optimization considering the trade-off between cutting power 
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-11
-#excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: '**Fujun Han**, Li Li, Wei Cai, Congbo Li, Xingguo Deng, John W. Sutherland'
 date: 2020-07-20
 venue: 'Journal of Cleaner Production (J-CP)'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
