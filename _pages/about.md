@@ -27,14 +27,14 @@ I am currently a Postdoctoral Fellow at [The Chinese University of Hong Kong, Sh
 
 ### 2024 Year
 
-[7] In July 2024, a paper was accepted by *ACM Multimedia 2024* and selected for **Oral** presentation (Only 3.97%) **(CCF-A)**;
+[7] On 16 July 2024, a paper was accepted by *ACM Multimedia 2024* and selected for **Oral** presentation (Only 3.97%) **(CCF-A)**;
 
-[8] In May 2024, a paper was accepted by the *IEEE Transactions on Circuits and Systems for Video Technology* **(CCF-B)**;
+[8] On 31 May 2024, a paper was accepted by the *IEEE Transactions on Circuits and Systems for Video Technology* **(CCF-B)**;
 
-[9] In May 2024, a paper was accepted by IEEE *Transactions on Automation Science and Engineering* **(CCF-B)**;
+[9] On 07 May 2024, a paper was accepted by IEEE *Transactions on Automation Science and Engineering* **(CCF-B)**;
 
-[10] In February 2024, a paper was accepted by the *IEEE Transactions on Intelligent Vehicles*;
+[10] On 20 February 2024, a paper was accepted by the *IEEE Transactions on Intelligent Vehicles*;
 
 ### 2020 Year
 
-[11] In July 2020, a paper was accepted by the *Journal of Cleaner Production*.
+[11] On 20 July 2020, a paper was accepted by the *Journal of Cleaner Production*.
