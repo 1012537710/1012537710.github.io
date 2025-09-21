@@ -3,7 +3,7 @@ title: "Co-Design of Lightweight Neural Network and Low-Power Edge Computing Arc
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-10
-#excerpt: 'Lei Xiao, **Fujun Han**, Changfu Zhang, Shukai Duan, Lidan Wang, Jia Yan'
+excerpt: 'Lei Xiao, **Fujun Han**, Changfu Zhang, Shukai Duan, Lidan Wang, Jia Yan'
 date: 2025-05-20
 venue: 'IEEE Sensors Journal (I-SJ)'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
