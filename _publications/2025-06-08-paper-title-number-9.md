@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-9
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2025-09-04
+date: 2025-07-15
 venue: 'IEEE Transactions on Emerging Topics in Computational Intelligence (T-ETCI)'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11150743'
