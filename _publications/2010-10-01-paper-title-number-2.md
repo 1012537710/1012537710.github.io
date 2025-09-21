@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "MLLM-ISU: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models based Intrusion Scene Understanding"
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
