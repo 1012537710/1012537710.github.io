@@ -17,9 +17,9 @@ I am currently a Postdoctoral Fellow at [The Chinese University of Hong Kong, Sh
 
 [2] In September 2025, a paper was accepted by *IEEE Transactions on Geoscience and Remote Sensing* **(CCF-B)**;
 
-[3] In August 2025, a paper was accepted by the *IEEE International Conference on Data Mining* **(CCF-B)**;
+[3] In July 2025, a paper was accepted by the *IEEE Transactions on Emerging Topics in Computational Intelligence*;
 
-[4] In July 2025, a paper was accepted by the *IEEE Transactions on Emerging Topics in Computational Intelligence*;
+[4] In August 2025, a paper was accepted by the *IEEE International Conference on Data Mining* **(CCF-B)**;
 
 [5] In July 2025, a paper was accepted by *ACM Multimedia 2025* **(CCF-A)**;
 
