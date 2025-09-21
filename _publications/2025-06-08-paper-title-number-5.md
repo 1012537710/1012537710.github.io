@@ -3,7 +3,7 @@ title: "MF-ID: A Benchmark and Approach for Multi-Category Fine-Grained Intrusio
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-5
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: '**Fujun Han**, Peng Ye, Ke Li, Shukai Duan, Lidan Wang'
 date: 2024-05-07
 venue: 'IEEE Transactions on Automation Science and Engineering (T-ASE)'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
