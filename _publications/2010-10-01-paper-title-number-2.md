@@ -7,7 +7,7 @@ excerpt: '**Fujun Han**, Peng Ye'
 date: 2025-09-19
 venue: 'Annual Conference on Neural Information Processing Systems (NeurIPS)'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-#paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://neurips.cc/virtual/2025/poster/121848'
 #citation: 'Fujun Han, Peng Ye'
 ---
 **Fujun Han**, Peng Ye
