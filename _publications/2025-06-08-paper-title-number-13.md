@@ -1,5 +1,5 @@
 ---
-#title: "MF-ID: A Benchmark and Approach for Multi-Category Fine-Grained Intrusion Detection"
+title: "MF-ID: A Benchmark and Approach for Multi-Category Fine-Grained Intrusion Detection"
 #collection: publications
 #category: conferences
 #permalink: /publication/2010-10-01-paper-title-number-5
