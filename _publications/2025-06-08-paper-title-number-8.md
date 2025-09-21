@@ -3,7 +3,7 @@ title: "HSTNet: A Hybrid Spatial-Channel Sparse Transformer Network for Infrared
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-8
-#excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Ke Li, Yining Wang, **Fujun Han**, Hu Wang, Zige Xiong, Yan Tian'
 date: 2025-9-11
 venue: 'IEEE Transactions on Geoscience and Remote Sensing (T-GRS)'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
