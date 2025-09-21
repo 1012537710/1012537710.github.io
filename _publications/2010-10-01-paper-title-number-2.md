@@ -2,7 +2,7 @@
 title: "MLLM-ISU: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models based Intrusion Scene Understanding"
 collection: publications
 category: conferences
-permalink: /publication/2010-10-01-paper-title-number-2
+#permalink: /publication/2010-10-01-paper-title-number-2
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 #date: 2025-09-19
 #venue: 'Annual Conference on Neural Information Processing Systems (NeurIPS)'
@@ -11,5 +11,6 @@ permalink: /publication/2010-10-01-paper-title-number-2
 #citation: 'Fujun Han, Peng Ye'
 ---
 In *Proc. Conference on Neural Information Processing Systems (NeurIPS), 2025*
+
 Fujun Han, Peng Ye
 
