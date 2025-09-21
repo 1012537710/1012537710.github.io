@@ -11,7 +11,7 @@ I am currently a Postdoctoral Fellow at [The Chinese University of Hong Kong, Sh
 
 ---
 
-Postdoctoral Advisor: [David Zhang](https://scholar.google.com/citations?user=IOagLnEAAAAJ&hl=en), Chinese University of Hong Kong, Shenzhen
+Postdoctoral Advisor: [David Zhang](https://scholar.google.com/citations?user=IOagLnEAAAAJ&hl=en), The Chinese University of Hong Kong, Shenzhen
 
 Ph.D Advisor: [Shukai Duan](https://scholar.google.com/citations?user=c_zpF_kAAAAJ&hl=zh-CN), Southwest University
 
