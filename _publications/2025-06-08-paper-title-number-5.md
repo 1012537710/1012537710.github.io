@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "MF-ID: A Benchmark and Approach for Multi-Category Fine-Grained Intrusion Detection"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2010-10-01-paper-title-number-5
+#excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2024-05-20
+venue: 'IEEE Transactions on Automation Science and Engineering (T-ASE)'
+#slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10522627'
+#citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
