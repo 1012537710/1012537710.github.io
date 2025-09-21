@@ -9,7 +9,6 @@ date: 2025-09-19
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 #citation: 'Fujun Han, Peng Ye'
-AAAAAAA
 ---
 Fujun Han, Peng Ye
 
