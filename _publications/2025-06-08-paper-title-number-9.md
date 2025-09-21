@@ -3,7 +3,7 @@ title: "Low-Light Image Enhancement via Global-Local Collaborative Transformer"
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-9
-#excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Chunyan She, **Fujun Han**, Feng Pan, Shukai Duan, Tingwen Huang, Lidan Wang'
 date: 2025-09-04
 venue: 'IEEE Transactions on Emerging Topics in Computational Intelligence (T-ETCI)'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
