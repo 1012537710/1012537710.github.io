@@ -3,7 +3,7 @@ title: "Ada-iD: Active Domain Adaptation for Intrusion Detection"
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-1
-#excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Ke Li; Yining Wang; **Fujun Han**; Hu Wang; Zige Xiong; Yan Tian'
 date: 2024-10-28
 venue: 'ACM International Conference on Multimedia (ACM MM) (Oral)'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
