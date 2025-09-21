@@ -10,5 +10,5 @@ venue: 'Annual Conference on Neural Information Processing Systems (NeurIPS)'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 #citation: 'Fujun Han, Peng Ye'
 ---
-Fujun Han, Peng Ye
+**Fujun Han**, Peng Ye
 
