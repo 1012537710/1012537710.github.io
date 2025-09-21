@@ -3,7 +3,7 @@ title: "MPC-Net: Multi-Prior Collaborative Network for Low-Light Image Enhanceme
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-7
-#excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Chunyan She, **Fujun Han**, Lidan Wang, Shukai Duan, Tingwen Huang'
 date: 2024-05-31
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
