@@ -3,7 +3,7 @@ title: "MMID-Bench: A Comprehensive Benchmark for Multi-Domain Multi-Category In
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-6
-#excerpt: '**Fujun Han**, Peng Ye, Chunyan She, Shukai Duan, Lidan Wang, Derong Liu'
+excerpt: '**Fujun Han**, Peng Ye, Chunyan She, Shukai Duan, Lidan Wang, Derong Liu'
 date: 2024-02-20
 venue: 'IEEE Transactions on Intelligent Vehicles (T-IV)'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
