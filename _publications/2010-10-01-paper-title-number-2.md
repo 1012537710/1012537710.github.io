@@ -8,6 +8,7 @@ date: 2025-09-19
 venue: 'Annual Conference on Neural Information Processing Systems (NeurIPS)'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Fujun Han, Peng Ye'
+#citation: 'Fujun Han, Peng Ye'
 ---
+Fujun Han, Peng Ye
 
