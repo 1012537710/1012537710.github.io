@@ -3,7 +3,7 @@ title: "Exploring Fourier Prior and Event Collaboration for Low-Light Image Enha
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-3
-#excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Chunyan She, **Fujun Han**, Chengyu Fang, Shukai Duan, Lidan Wang'
 date: 2025-07-05
 venue: 'ACM International Conference on Multimedia (ACM MM)'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
