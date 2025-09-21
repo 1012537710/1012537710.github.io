@@ -1,12 +1,12 @@
 ---
-title: "MF-ID: A Benchmark and Approach for Multi-Category Fine-Grained Intrusion Detection"
+title: "Parameters optimization considering the trade-off between cutting power and MRR based on Linear Decreasing Particle Swarm Algorithm in milling"
 collection: publications
 category: conferences
-permalink: /publication/2010-10-01-paper-title-number-5
+permalink: /publication/2010-10-01-paper-title-number-11
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2024-05-20
-venue: 'IEEE Transactions on Automation Science and Engineering (T-ASE)'
+date: 2020-07-20
+venue: 'Journal of Cleaner Production (J-CP)'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10522627'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0959652620314359'
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
