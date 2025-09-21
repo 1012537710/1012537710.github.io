@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-5
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2024-05-20
+date: 2024-05-07
 venue: 'IEEE Transactions on Automation Science and Engineering (T-ASE)'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10522627'
