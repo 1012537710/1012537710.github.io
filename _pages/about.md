@@ -11,9 +11,9 @@ I am currently a Postdoctoral Fellow at [The Chinese University of Hong Kong, Sh
 
 ## Advisor:
 
-Postdoctoral Advisor: [David Zhang](https://scholar.google.com/citations?user=IOagLnEAAAAJ&hl=en), The Chinese University of Hong Kong, Shenzhen. Currently, he is a Distinguished Presidential Chair Professor in CUHK-SZ, is also a Croucher Senior Research Fellow, Distinguished Speaker of the IEEE Computer Society, and Fellows of both Royal Societ of Canada and Canadian Academy of Engineering, as well as **IEEE Life Fellow** and **IAPR**/**AAIA Fellow**.
+Postdoctoral Advisor: [David Zhang](https://scholar.google.com/citations?user=IOagLnEAAAAJ&hl=en), The Chinese University of Hong Kong, Shenzhen. Currently, he is a Distinguished Presidential Chair Professor in CUHK-SZ, Distinguished Speaker of the IEEE Computer Society, and Fellows of both Royal Societ of Canada and Canadian Academy of Engineering, as well as **IEEE Life Fellow** and **IAPR**/**AAIA Fellow**.
 
-Ph.D Advisor: [Shukai Duan](https://scholar.google.com/citations?user=c_zpF_kAAAAJ&hl=zh-CN), Southwest University
+Ph.D Advisor: [Shukai Duan](https://scholar.google.com/citations?user=c_zpF_kAAAAJ&hl=zh-CN), Southwest University.
 
 ---
 ## Publication List:
