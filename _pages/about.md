@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Fellow at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans), China. I received my Ph.D. degree from [Southwest University](https://www.swu.edu.cn/), Chongqing, China. My research interests include **Multimodal Large Language Models**, **Computer Vision**, and **Autonomous Driving**. 
+I am currently a Postdoctoral Researcher Fellow at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans), China. I received my Ph.D. degree from [Southwest University](https://www.swu.edu.cn/), Chongqing, China. My research interests include **Multimodal Large Language Models**, **Computer Vision**, and **Autonomous Driving**. 
 
 I have published some papers in leading conferences and journals, e.g., NeurIPS 2025, ACM MM 2024 (Oral, only 3.97%), ACM MM 2025, ICDM 2025, IEEE Transactions on Automation Science and Engineering (T-ASE), IEEE Transactions on Intelligent Vehicles (T-IV), IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), IEEE Transactions on Geoscience and Remote Sensing (T-GRS), IEEE Transactions on Emerging Topics in Computational Intelligence (T-ETCI), IEEE Sensors Journal (I-SJ), and Journal of Cleaner Production (J-CP). 
 
