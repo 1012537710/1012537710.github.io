@@ -21,7 +21,7 @@ Ph.D Advisor: [Shukai Duan](https://scholar.google.com/citations?user=c_zpF_kAAA
 
 ## Publication List:
 
-### 2025 Year
+### ·2025 Year
 
 [1] On 06 October 2025, a paper was accepted by *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*
 
