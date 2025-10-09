@@ -21,7 +21,7 @@ Ph.D Advisor: [Shukai Duan](https://scholar.google.com/citations?user=c_zpF_kAAA
 
 ## Publication List:
 
-##2025 Year##
+## 2025 Year
 
 [1] On 06 October 2025, a paper was accepted by *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*
 
@@ -37,7 +37,7 @@ Ph.D Advisor: [Shukai Duan](https://scholar.google.com/citations?user=c_zpF_kAAA
 
 [7] On 20 May 2025, a paper was accepted by the *IEEE Sensors Journal*
 
-### 2024 Year
+## 2024 Year
 
 [8] On 16 July 2024, a paper was accepted by *ACM Multimedia 2024* and selected for **Oral** presentation (Only 3.97%) **(CCF-A)**
 
@@ -47,6 +47,6 @@ Ph.D Advisor: [Shukai Duan](https://scholar.google.com/citations?user=c_zpF_kAAA
 
 [11] On 20 February 2024, a paper was accepted by the *IEEE Transactions on Intelligent Vehicles*
 
-### 2020 Year
+## 2020 Year
 
 [12] On 20 July 2020, a paper was accepted by the *Journal of Cleaner Production*
