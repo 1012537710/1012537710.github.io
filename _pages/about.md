@@ -23,7 +23,7 @@ Ph.D Advisor: [Shukai Duan](https://scholar.google.com/citations?user=c_zpF_kAAA
 
 ### 2025 Year
 
-[1] On 19 September 2025, a paper was accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing;
+[1] On 06 October 2025, a paper was accepted by *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*;
 
 [2] On 19 September 2025, a paper was accepted by *NeurIPS 2025* **(CCF-A)**;
 
@@ -31,7 +31,7 @@ Ph.D Advisor: [Shukai Duan](https://scholar.google.com/citations?user=c_zpF_kAAA
 
 [4] On 04 September 2025, a paper was accepted by the *IEEE Transactions on Emerging Topics in Computational Intelligence*;
 
-[5] On 26 August 2025, a paper was accepted by the *IEEE International Conference on Data Mining* **(CCF-B)**;
+[5] On 26 August 2025, a paper was accepted by *IEEE International Conference on Data Mining* **(CCF-B)**;
 
 [6] On 05 July 2025, a paper was accepted by *ACM Multimedia 2025* **(CCF-A)**;
 
