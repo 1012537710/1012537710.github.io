@@ -3,7 +3,7 @@ title: "MMIDNet: A Multi-level Mutual Information Disentanglement Network for Cr
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-12
-#excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Ke Li, **Fujun Han**, Yining Wang, Kewen Huang, Bo Yang, Yan Tian'
 date: 2025-10-06
 venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (I-JSTARS)'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
