@@ -15,7 +15,7 @@ Besides, I also serve as a reviewer in some excellent conferences and journals, 
 
 ## Advisor:
 
-Postdoctoral Advisor: [David Zhang](https://scholar.google.com/citations?user=IOagLnEAAAAJ&hl=en), The Chinese University of Hong Kong, Shenzhen. Currently, he is a **Distinguished Presidential Chair Professor** in The Chinese University of Hong Kong, Shenzhen, **Distinguished Speaker** of the IEEE Computer Society, and **Fellows of both Royal Societ of Canada and Canadian Academy of Engineering**, as well as **IEEE Life Fellow** and **IAPR**/**AAIA Fellow**.
+%Postdoctoral Advisor: [David Zhang](https://scholar.google.com/citations?user=IOagLnEAAAAJ&hl=en), The Chinese University of Hong Kong, Shenzhen. Currently, he is a **Distinguished Presidential Chair Professor** in The Chinese University of Hong Kong, Shenzhen, **Distinguished Speaker** of the IEEE Computer Society, and **Fellows of both Royal Societ of Canada and Canadian Academy of Engineering**, as well as **IEEE Life Fellow** and **IAPR**/**AAIA Fellow**.
 
 Ph.D Advisor: [Shukai Duan](https://scholar.google.com/citations?user=c_zpF_kAAAAJ&hl=zh-CN), Southwest University. Currently, he is **National High-Level Talent Special Support Programs (10,000 Talents Program) Leading Talents** and the Dean and Professor of the College of Artificial Intelligence, Southwest University, Chongqing, China. He is also the Director of National Local Joint Engineering Laboratory of Intelligent Transmission and Control Technology, the Director of the Key Laboratory of Brain-Like Computing and Intelligent Control in Chongqing, and the Deputy Director of Artificial Intelligence and Robotics Education Special Committee of China Automation Society.
 
