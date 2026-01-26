@@ -17,7 +17,7 @@ Besides, I also serve as a reviewer in some excellent conferences and journals, 
 
 ## 2026 Year
 
-[1] On January 26, 2026, two papers were accepted by ICLR 2026 (one as first author, one as co-author).
+[1] On January 26, 2026, two papers were accepted by ICLR 2026 (one as first author, one as co-author)
 
 ## 2025 Year
 
