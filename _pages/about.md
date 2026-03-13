@@ -17,7 +17,7 @@ Besides, I also serve as a reviewer in some excellent conferences and journals, 
 
 ## 2026 Year
 
-[1] On 26 January 2026, **two papers** were accepted by **ICLR 2026** (one as first author, one as co-author) **(CCF None)**
+[1] On 26 January 2026, **two papers** were accepted by **ICLR 2026** (one as first author, one as co-author) **(CCF A)**
 
 ## 2025 Year
 
