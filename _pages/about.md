@@ -72,9 +72,9 @@ I have authored multiple publications in top-tier venues (e.g., **ICLR, NeurIPS,
 *(Full list available on [Google Scholar]())*
 
 ### 2026
-* **[ICLR]** Title of your First-author paper. 
-    **Fujun Han**, et al. *International Conference on Learning Representations*, 2026. **(CCF-A)**
-* **[CVPR]** Title of your CVPR paper.
+* **[ICLR2026]** OVID: Open-Vocabulary Intrusion Detection. 
+    **Fujun Han**, Jingqi Ye, Chenglong Zhang, Peng Ye. *International Conference on Learning Representations*, 2026. **(CCF-A)**
+* **[ICLR2026]** Gradient Intrinsic Dimensionality Alignment: Narrowing The Gap Between Low-Rank Adaptation and Full Fine-Tuning.
     Authors... *IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2026. **(CCF-A)**
 
 ### 2025
