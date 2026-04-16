@@ -40,6 +40,7 @@ If you are interested in my research or have any questions, you can contact me v
 * **2026:** ICML, ICLR, CVPR, ECCV, AAAI
 * **2024:** ACM Multimedia
 * IEEE Transactions on Automation Science and Engineering (T-ASE)
+* Artificial Intelligence Review
 
 
 
