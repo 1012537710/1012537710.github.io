@@ -75,7 +75,7 @@ I have authored multiple publications in top-tier venues (e.g., **ICLR, NeurIPS,
 * **[ICLR2026]** OVID: Open-Vocabulary Intrusion Detection. 
     **Fujun Han**, Jingqi Ye, Chenglong Zhang, Peng Ye. *International Conference on Learning Representations*, 2026. **(CCF-A)**
 * **[ICLR2026]** Gradient Intrinsic Dimensionality Alignment: Narrowing The Gap Between Low-Rank Adaptation and Full Fine-Tuning.
-    Authors... *IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2026. **(CCF-A)**
+    Authors... *International Conference on Learning Representations*, 2026. **(CCF-A)**
 
 ### 2025
 * **[NeurIPS]** Title of the paper.
