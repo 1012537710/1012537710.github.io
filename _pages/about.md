@@ -13,14 +13,21 @@ I have published some papers in leading conferences and journals, e.g., ICLR 202
 
 Besides, I also serve as a reviewer in some excellent conferences and journals, including ICML 2026, ICLR 2026, ECCV 2026, AAAI 2026, ACM MM 2024, IEEE T-ASE, etc. If you are interested in my research or have any questions, you can contact me via email: [hanfujun@cuhk.edu.cn](hanfujun@cuhk.edu.cn).
 
-## Publication List:
+## 🔥 News
 
-## 2026 Year
+* **[2026.01.26]** Two papers (one as first author, one as co-author) were accepted by **ICLR 2026** (CCF-A).
+* **[2025.10.06]** A paper was accepted by **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**.
+* **[2025.09.19]**  A paper was accepted by **NeurIPS 2025** (CCF-A).
+* **[2026.01.26]** Two papers (one as first author, one as co-author) were accepted by **ICLR 2026** (CCF-A).
+* **[2026.01.26]** Two papers (one as first author, one as co-author) were accepted by **ICLR 2026** (CCF-A).
+* **[2026.01.26]** Two papers (one as first author, one as co-author) were accepted by **ICLR 2026** (CCF-A).
+* **[2026.01.26]** Two papers (one as first author, one as co-author) were accepted by **ICLR 2026** (CCF-A).
+* **[2026.01.26]** Two papers (one as first author, one as co-author) were accepted by **ICLR 2026** (CCF-A).
+* **[2026.01.26]** Two papers (one as first author, one as co-author) were accepted by **ICLR 2026** (CCF-A).
+* **[2026.01.26]** Two papers (one as first author, one as co-author) were accepted by **ICLR 2026** (CCF-A).
+* **[2026.01.26]** Two papers (one as first author, one as co-author) were accepted by **ICLR 2026** (CCF-A).
 
-[1] On 26 January 2026, **two papers** were accepted by **ICLR 2026** (one as first author, one as co-author) **(CCF A)**
-
-## 2025 Year
-
+* 
 [2] On 06 October 2025, a paper was accepted by **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**
 
 [3] On 19 September 2025, a paper was accepted by **NeurIPS 2025** **(CCF-A)**
