@@ -18,7 +18,9 @@ Besides, I also serve as a reviewer in some excellent conferences and journals, 
 ## 🔥 News
 
 * **[2026.01.26]** Two papers (one as first author, one as co-author) were accepted by **ICLR 2026** **(CCF-A)**.
+* 
 * **[2025.10.06]** A paper was accepted by **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**.
+* 
 * **[2025.09.19]** A paper was accepted by **NeurIPS 2025** **(CCF-A)**.
 * **[2025.09.11]** A paper was accepted by **IEEE Transactions on Geoscience and Remote Sensing** (CCF-B).
 * **[2025.09.04]** A paper was accepted by **IEEE Transactions on Emerging Topics in Computational Intelligence**.
@@ -30,14 +32,6 @@ Besides, I also serve as a reviewer in some excellent conferences and journals, 
 * **[2024.05.07]** A paper was accepted by **IEEE Transactions on Automation Science and Engineering** (CCF-B).
 * **[2024.02.20]** A paper was accepted by **IEEE Transactions on Intelligent Vehicles**.
 * **[2020.07.20]** A paper was accepted by **Journal of Cleaner Production**.
-
-
-
-I am a **Postdoctoral Research Fellow** at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans) (CUHK-Shenzhen), and a Member of IEEE. I received my Ph.D. degree from [Southwest University](https://www.swu.edu.cn/), Chongqing.
-
-My research focuses on the intersection of **Multimodal Large Language Models (MLLMs)**, **Computer Vision**, and **Autonomous Driving**, with a particular interest in advancing small object understanding and robust perception in complex environments.
-
-I have authored multiple publications in top-tier venues (e.g., **ICLR, NeurIPS, CVPR, ACM MM**). Notably, my work at ACM MM 2024 was selected for an **Oral Presentation** (Acceptance Rate: **3.97%**).
 
 📧 **Contact:** [hanfujun@cuhk.edu.cn](mailto:hanfujun@cuhk.edu.cn)
 
