@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="font-size: 0.9em;">
+<div style="font-size: 0.1em;">
 
 I am currently a Postdoctoral Researcher Fellow at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans), China. I am also a Member of IEEE. I received my Ph.D. degree from [Southwest University](https://www.swu.edu.cn/), Chongqing, China. My research interests include **Multimodal Large Language Models**, **Computer Vision**, and **Autonomous Driving**.
 
