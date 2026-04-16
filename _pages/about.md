@@ -23,9 +23,9 @@ Besides, I also serve as a reviewer in some excellent conferences and journals, 
 * **[2025.08.26]** A paper was accepted by **IEEE International Conference on Data Mining** (CCF-B).
 * **[2025.07.05]** A paper was accepted by **ACM Multimedia 2025** (CCF-A).
 * **[2025.05.20]** A paper was accepted by **IEEE Sensors Journal**.
-* **[2026.01.26]** A paper was accepted by **NeurIPS 2025** (CCF-A).
-* **[2026.01.26]** A paper was accepted by **NeurIPS 2025** (CCF-A).
-* **[2026.01.26]** A paper was accepted by **NeurIPS 2025** (CCF-A).
+* **[2024.07.16]** A paper was accepted by **ACM Multimedia 2024** and selected for **Oral** presentation (Only 3.97%) **(CCF-A)**.
+* **[2024.05.31]** A paper was accepted by **IEEE Transactions on Circuits and Systems for Video Technology** (CCF-B).
+* **[2024.05.07]** A paper was accepted by **IEEE Transactions on Automation Science and Engineering** (CCF-B).
 
 * 
 [2] On 06 October 2025, a paper was accepted by **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**
