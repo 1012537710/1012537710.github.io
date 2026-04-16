@@ -78,8 +78,8 @@ I have authored multiple publications in top-tier venues (e.g., **ICLR, NeurIPS,
     Jingqi Ye, Haonan He, Minglei Li, **Fujun Han**, Tao Chen, Peng Ye *International Conference on Learning Representations*, 2026. **(CCF-A)**
 
 ### 2025
-* **[NeurIPS]** Title of the paper.
-    Authors... *Neural Information Processing Systems*, 2025. **(CCF-A)**
+* **[NeurIPS]** MMIDNet: A Multi-level Mutual Information Disentanglement Network for Cross-domain Infrared Small Target Detection.
+    Ke Li, **Fujun Han**, Yining Wang, Kewen Huang, Bo Yang, Yan Tian *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2025. **(CCF-A)**
 * **[ACM MM]** Title of the paper.
     Authors... *ACM International Conference on Multimedia*, 2025. **(CCF-A)**
 * **[T-GRS]** Title of the paper.
