@@ -36,15 +36,10 @@ If you are interested in my research or have any questions, you can contact me v
 ---
 
 ## 🎓 Academic Services
-### Journal Reviewer
-* IEEE Transactions on Automation Science and Engineering (T-ASE)
-* Journal of Cleaner Production (J-CP)
-* ... (and others)
-
-### Conference Reviewer
+### Reviewer
 * **2026:** ICML, ICLR, CVPR, ECCV, AAAI
 * **2024:** ACM Multimedia
-
+* IEEE Transactions on Automation Science and Engineering (T-ASE)
 
 
 
