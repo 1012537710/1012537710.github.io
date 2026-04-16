@@ -13,9 +13,7 @@ I have published some papers in leading conferences and journals, e.g., ICLR 202
 
 Besides, I also serve as a reviewer in some excellent conferences and journals, including ICML 2026, ICLR 2026, ECCV 2026, AAAI 2026, ACM MM 2024, IEEE T-ASE, etc. 
 
-If you are interested in my research or have any questions, you can contact me via email: 
-
-📧 **Contact:** [hanfujun@cuhk.edu.cn](mailto:hanfujun@cuhk.edu.cn)
+If you are interested in my research or have any questions, you can contact me via email: 📧 **Contact:** [hanfujun@cuhk.edu.cn](mailto:hanfujun@cuhk.edu.cn).
 
 ---
 
@@ -35,12 +33,7 @@ If you are interested in my research or have any questions, you can contact me v
 * **[2024.02.20]** A paper was accepted by **IEEE Transactions on Intelligent Vehicles**.
 * **[2020.07.20]** A paper was accepted by **Journal of Cleaner Production**.
 
-
-
 ---
-
-
-
 
 ## 🎓 Academic Services
 ### Journal Reviewer
