@@ -11,7 +11,11 @@ I am currently a Postdoctoral Researcher Fellow at [The Chinese University of Ho
 
 I have published some papers in leading conferences and journals, e.g., ICLR 2026, NeurIPS 2025, ACM MM 2024 (**Oral**, only 3.97%), ACM MM 2025, ICDM 2025, IEEE Transactions on Automation Science and Engineering (T-ASE), IEEE Transactions on Intelligent Vehicles (T-IV), IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), IEEE Transactions on Geoscience and Remote Sensing (T-GRS), IEEE Transactions on Emerging Topics in Computational Intelligence (T-ETCI), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (I-JSTAR), IEEE Sensors Journal (I-SJ), and Journal of Cleaner Production (J-CP). 
 
-Besides, I also serve as a reviewer in some excellent conferences and journals, including ICML 2026, ICLR 2026, ECCV 2026, AAAI 2026, ACM MM 2024, IEEE T-ASE, etc. If you are interested in my research or have any questions, you can contact me via email: [hanfujun@cuhk.edu.cn](hanfujun@cuhk.edu.cn).
+Besides, I also serve as a reviewer in some excellent conferences and journals, including ICML 2026, ICLR 2026, ECCV 2026, AAAI 2026, ACM MM 2024, IEEE T-ASE, etc. 
+
+If you are interested in my research or have any questions, you can contact me via email: 
+
+📧 **Contact:** [hanfujun@cuhk.edu.cn](mailto:hanfujun@cuhk.edu.cn)
 
 ---
 
@@ -31,46 +35,12 @@ Besides, I also serve as a reviewer in some excellent conferences and journals, 
 * **[2024.02.20]** A paper was accepted by **IEEE Transactions on Intelligent Vehicles**.
 * **[2020.07.20]** A paper was accepted by **Journal of Cleaner Production**.
 
-📧 **Contact:** [hanfujun@cuhk.edu.cn](mailto:hanfujun@cuhk.edu.cn)
+
 
 ---
 
-## 🔥 News
-* **[2026.03]** One paper was accepted by **CVPR 2026**!
-* **[2026.01]** Two papers (one as First Author) were accepted by **ICLR 2026** (CCF-A).
-* **[2025.09]** One paper was accepted by **NeurIPS 2025** (CCF-A).
-* **[2024.07]** My paper was selected as an **Oral Presentation** at **ACM MM 2024** (Top 3.97%).
 
----
 
-## 📚 Selected Publications
-*(Full list available on [Google Scholar]())*
-
-### 2026
-* **[ICLR 2026]** OVID: Open-Vocabulary Intrusion Detection. 
-    **Fujun Han**, Jingqi Ye, Chenglong Zhang, Peng Ye. *International Conference on Learning Representations*, 2026. **(CCF-A)**
-* **[ICLR 2026]** Gradient Intrinsic Dimensionality Alignment: Narrowing The Gap Between Low-Rank Adaptation and Full Fine-Tuning.
-    Jingqi Ye, Haonan He, Minglei Li, **Fujun Han**, Tao Chen, Peng Ye *International Conference on Learning Representations*, 2026. **(CCF-A)**
-
-### 2025
-* **[NeurIPS]** MMIDNet: A Multi-level Mutual Information Disentanglement Network for Cross-domain Infrared Small Target Detection.
-    Ke Li, **Fujun Han**, Yining Wang, Kewen Huang, Bo Yang, Yan Tian *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2025. **(CCF-A)**
-* **[ACM MM]** Title of the paper.
-    Authors... *ACM International Conference on Multimedia*, 2025. **(CCF-A)**
-* **[T-GRS]** Title of the paper.
-    Authors... *IEEE Transactions on Geoscience and Remote Sensing*, 2025. **(CCF-B)**
-* **[ICDM]** Title of the paper.
-    Authors... *IEEE International Conference on Data Mining*, 2025. **(CCF-B)**
-
-### 2024
-* **[ACM MM]** **(Oral, 3.97%)** Title of the Oral paper.
-    **Fujun Han**, et al. *ACM International Conference on Multimedia*, 2024. **(CCF-A)**
-* **[T-CSVT]** Title of the paper.
-    *IEEE Transactions on Circuits and Systems for Video Technology*, 2024. **(CCF-B)**
-* **[T-ASE]** Title of the paper.
-    *IEEE Transactions on Automation Science and Engineering*, 2024. **(CCF-B)**
-
----
 
 ## 🎓 Academic Services
 ### Journal Reviewer
