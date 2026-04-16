@@ -32,12 +32,3 @@ If you are interested in my research or have any questions, you can contact me v
 * **[2024.05.07]** A paper was accepted by **IEEE Transactions on Automation Science and Engineering** (CCF-B).
 * **[2024.02.20]** A paper was accepted by **IEEE Transactions on Intelligent Vehicles**.
 * **[2020.07.20]** A paper was accepted by **Journal of Cleaner Production**.
-
----
-
-## 🎓 Academic Services
-### Reviewer
-* **2026:** ICML, ICLR, ECCV, AAAI
-* **2024:** ACM Multimedia
-* IEEE Transactions on Automation Science and Engineering (T-ASE)
-* Artificial Intelligence Review
