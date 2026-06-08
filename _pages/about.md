@@ -20,7 +20,7 @@ If you are interested in my research or have any questions, you can contact me v
 ## 🔥 News
 
 * **[2026.06.08]** A paper was accepted by **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**. 
-* **[2026.05.16]** A paper was accepted by <font color=Blue>KDD 2026</font> **(CCF-A)**.
+* **[2026.05.16]** A paper was accepted by **<font color=red>KDD 2026</font>** **(CCF-A)**.
 * **[2026.05.01]** A paper was accepted by **ICML 2026** **(CCF-A)**.
 * **[2026.01.26]** Two papers (one as first author, one as co-author) were accepted by **ICLR 2026** **(CCF-A)**.
 * **[2025.10.06]** A paper was accepted by **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**. 
