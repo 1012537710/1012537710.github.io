@@ -16,6 +16,9 @@ Besides, I serve as a reviewer for several excellent conferences and journals, i
 If you are interested in my research or have any questions, you can contact me via email: 📧 **Contact:** [hanfujun@cuhk.edu.cn](mailto:hanfujun@cuhk.edu.cn).
 
 ---
+## 🔥 arXiv (Latest Research Updates)
+* **[2026.06.02]** Our preprint, **"DiBS: Diffusion-Informed Branch Selection"**, is now available on **arXiv**. [[arXiv]](https://arxiv.org/abs/2606.06518)[[github]](https://github.com/shanxierdan/DiBS).
+* **[2026.04.24]** Our preprint, **"Can Multimodal Large Language Models Truly Understand Small Objects?"**, is now available on **arXiv**. [[arXiv]](https://arxiv.org/abs/2604.22884)[[github]](https://github.com/Hanfj-X/SOU).
 
 ## 🔥 News (Latest Acceptance Updates)
 
@@ -36,6 +39,3 @@ If you are interested in my research or have any questions, you can contact me v
 * **[2024.02.20]** A paper was accepted by **IEEE Transactions on Intelligent Vehicles**.🎉
 * **[2020.07.20]** A paper was accepted by **Journal of Cleaner Production**.🎉
 
-## 🔥 arXiv (Latest Research Updates)
-* **[2026.06.02]** Our preprint, **"DiBS: Diffusion-Informed Branch Selection"**, is now available on **arXiv**. [[arXiv]](https://arxiv.org/abs/2606.06518)[[github]](https://github.com/shanxierdan/DiBS).
-* **[2026.04.24]** Our preprint, **"Can Multimodal Large Language Models Truly Understand Small Objects?"**, is now available on **arXiv**. [[arXiv]](https://arxiv.org/abs/2604.22884)[[github]](https://github.com/Hanfj-X/SOU).
