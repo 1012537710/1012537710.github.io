@@ -35,3 +35,6 @@ If you are interested in my research or have any questions, you can contact me v
 * **[2024.05.07]** A paper was accepted by **IEEE Transactions on Automation Science and Engineering** (CCF-B).
 * **[2024.02.20]** A paper was accepted by **IEEE Transactions on Intelligent Vehicles**.
 * **[2020.07.20]** A paper was accepted by **Journal of Cleaner Production**.
+
+## 🔥 arXiv
+* **[2026.06.12]** Our preprint, **"Can Multimodal Large Language Models Truly Understand Small Objects?"**, is now available on **arXiv**. [arXiv](https://arxiv.org/abs/2604.22884)[github]([https://arxiv.org/abs/2604.22884](https://github.com/Hanfj-X/SOU)).
