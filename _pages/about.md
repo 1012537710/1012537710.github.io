@@ -17,7 +17,7 @@ If you are interested in my research or have any questions, you can contact me v
 
 ---
 
-## 🔥 News
+## 🔥 News (Latest Acceptance Updates)
 
 * **[2026.06.08]** A paper was accepted by **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**. 
 * **[2026.05.16]** A paper was accepted by **<font color=blue>KDD 2026</font>** **(CCF-A)**.
@@ -36,6 +36,6 @@ If you are interested in my research or have any questions, you can contact me v
 * **[2024.02.20]** A paper was accepted by **IEEE Transactions on Intelligent Vehicles**.
 * **[2020.07.20]** A paper was accepted by **Journal of Cleaner Production**.
 
-## 🔥 arXiv
+## 🔥 arXiv (Latest Research Updates)
 * **[2026.06.02]** Our preprint, **"DiBS: Diffusion-Informed Branch Selection"**, is now available on **arXiv**. [[arXiv]](https://arxiv.org/abs/2606.06518)[[github]](https://github.com/shanxierdan/DiBS).
 * **[2026.04.24]** Our preprint, **"Can Multimodal Large Language Models Truly Understand Small Objects?"**, is now available on **arXiv**. [[arXiv]](https://arxiv.org/abs/2604.22884)[[github]](https://github.com/Hanfj-X/SOU).
