@@ -2,7 +2,7 @@
 title: "OVID: Open-Vocabulary Intrusion Detection"
 collection: publications
 category: conferences
-permalink: /publication/2010-10-01-paper-title-number-13
+permalink: /publication/2010-10-01-paper-title-number-14
 excerpt: '**Fujun Han**, Jingqi Ye, Chenglong Zhang, Peng Ye'
 date: 2026
 venue: 'International Conference on Learning Representations (ICLR)'
