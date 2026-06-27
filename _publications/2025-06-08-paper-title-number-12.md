@@ -2,7 +2,7 @@
 title: "MMIDNet: A Multi-level Mutual Information Disentanglement Network for Cross-domain Infrared Small Target Detection"
 collection: publications
 category: conferences
-permalink: /publication/2010-10-01-paper-title-number-15
+permalink: /publication/2010-10-01-paper-title-number-12
 excerpt: 'Ke Li, **Fujun Han**, Yining Wang, Kewen Huang, Bo Yang, Yan Tian'
 date: 2025-10-06
 venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (I-JSTARS)'
