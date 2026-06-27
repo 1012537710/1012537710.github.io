@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-13
 excerpt: '**Fujun Han**, Jingqi Ye, Chenglong Zhang, Peng Ye'
-date: 2026
+date: 2026-1-28
 venue: 'International Conference on Learning Representations (ICLR)'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://openreview.net/forum?id=msFFC14G9i'
