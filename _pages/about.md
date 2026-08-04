@@ -36,15 +36,6 @@ Notably, one of our papers was accepted by **ACM Multimedia 2024** and selected 
 
 ---
 
-## Selected Highlights
-
-* **Top-tier AI venues:** Publications accepted by **ICLR**, **ICML**, **NeurIPS**, **KDD**, **ACM Multimedia**, and **ICDM**.
-* **ACM MM Oral:** One paper was selected as an **Oral Presentation** at **ACM Multimedia 2024** with an acceptance ratio of **3.97%**.
-* **Journal publications:** Research published in multiple IEEE Transactions and high-impact international journals.
-* **Academic service:** Reviewer for major conferences and journals, including **ICML**, **ICLR**, **NeurIPS**, **ECCV**, **AAAI**, **ACM MM**, **IEEE T-ASE**, and **Artificial Intelligence Review**.
-
----
-
 ## Research Funding
 
 I gratefully acknowledge the support from the following research grants and funding programs.
@@ -100,8 +91,8 @@ Tips:
 
 I actively serve as a reviewer for leading conferences and journals in machine learning, computer vision, multimedia, and artificial intelligence, including:
 
-* **Conferences:** ICML, ICLR, NeurIPS, ECCV, AAAI, ACM Multimedia.
-* **Journals:** IEEE Transactions on Automation Science and Engineering, Artificial Intelligence Review.
+* **Conferences:** **ICML**, **ICLR**, **NeurIPS**, **ECCV**, **AAAI**, **ACM MM**.
+* **Journals:** **IEEE Transactions on Automation Science and Engineering**, **Artificial Intelligence Review**.
 
 ---
 
