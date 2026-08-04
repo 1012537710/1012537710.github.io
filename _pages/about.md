@@ -101,7 +101,8 @@ Tips:
 * **[2026.06.08]** One paper was accepted for publication in **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**. 🎉
 * **[2026.05.16]** One paper was accepted to **KDD 2026** **(CCF-A)**. ⭐
 * **[2026.05.01]** One paper was accepted to **ICML 2026** **(CCF-A)**. ⭐
-* **[2026.01.26]** Two papers, including one first-author paper, were accepted to **ICLR 2026** **(CCF-A)**. ⭐⭐
+* **[2026.01.26]** One paper, were accepted to **ICLR 2026** **(CCF-A)**(first-author). ⭐
+* **[2026.01.26]** One paper, were accepted to **ICLR 2026** **(CCF-A)** (co-author). ⭐
 * **[2025.10.06]** One paper was accepted for publication in **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**. 🎉
 * **[2025.09.19]** One paper was accepted to **NeurIPS 2025** **(CCF-A)**. ⭐
 * **[2025.09.11]** One paper was accepted by **IEEE Transactions on Geoscience and Remote Sensing** **(CCF-B)**. 🎉
