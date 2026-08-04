@@ -49,10 +49,6 @@ Notably, one of our papers was accepted by **ACM Multimedia 2024** and selected 
     <strong>🚗 Autonomous Driving</strong><br>
     <span style="color:#5b6472;">Perception and intelligence for safety-critical autonomous systems.</span>
   </div>
-  <div style="padding: 1rem; border-radius: 14px; border: 1px solid #e8edf3; background: #ffffff;">
-    <strong>🌍 Real-world AI Applications</strong><br>
-    <span style="color:#5b6472;">Reliable AI systems for complex, dynamic, and practical environments.</span>
-  </div>
 </div>
 
 ---
