@@ -12,9 +12,9 @@ redirect_from:
   <p style="font-size: 1.06rem; line-height: 1.75; margin-bottom: 0;">
     Postdoctoral Research Fellow at 
     <a href="https://www.cuhk.edu.cn/zh-hans">The Chinese University of Hong Kong, Shenzhen</a><br>
-    <strong>Multimodal Large Language Models</strong> · 
-    <strong>Computer Vision</strong> · 
-    <strong>Autonomous Driving</strong>
+    <strong>🤖 Multimodal Large Language Models</strong> · 
+    <strong>👁️ Computer Vision</strong> · 
+    <strong>🚗 Autonomous Driving</strong>
   </p>
   <p style="margin-top: 0.9rem; margin-bottom: 0;">
     <a href="mailto:hanfujun@cuhk.edu.cn" style="display:inline-block; padding:0.38rem 0.75rem; margin-right:0.35rem; border-radius:999px; background:#2563eb; color:white; text-decoration:none;">📧 Email</a>
@@ -31,25 +31,6 @@ My research lies at the intersection of **Multimodal Large Language Models**, **
 My research has appeared or is forthcoming in leading conferences and journals, including **ICLR 2026**, **ICML 2026**, **NeurIPS 2025**, **KDD 2026**, **ACM Multimedia 2024/2025**, **ICDM 2025**, **IEEE Transactions on Automation Science and Engineering**, **IEEE Transactions on Intelligent Vehicles**, **IEEE Transactions on Circuits and Systems for Video Technology**, **IEEE Transactions on Geoscience and Remote Sensing**, **IEEE Transactions on Emerging Topics in Computational Intelligence**, **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, **IEEE Sensors Journal**, and **Journal of Cleaner Production**.
 
 Notably, one of our papers was accepted by **ACM Multimedia 2024** and selected for an **Oral Presentation** with an acceptance ratio of only **3.97%**.
-
----
-
-## Research Focus
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 0.85rem; margin: 1rem 0 1.4rem;">
-  <div style="padding: 1rem; border-radius: 14px; border: 1px solid #e8edf3; background: #ffffff;">
-    <strong>🤖 Multimodal Large Language Models</strong><br>
-    <span style="color:#5b6472;">Vision-language reasoning, multimodal alignment, small-object understanding.</span>
-  </div>
-  <div style="padding: 1rem; border-radius: 14px; border: 1px solid #e8edf3; background: #ffffff;">
-    <strong>👁️ Computer Vision</strong><br>
-    <span style="color:#5b6472;">Visual perception, robust recognition, object understanding, and scene analysis.</span>
-  </div>
-  <div style="padding: 1rem; border-radius: 14px; border: 1px solid #e8edf3; background: #ffffff;">
-    <strong>🚗 Autonomous Driving</strong><br>
-    <span style="color:#5b6472;">Perception and intelligence for safety-critical autonomous systems.</span>
-  </div>
-</div>
 
 ---
 
