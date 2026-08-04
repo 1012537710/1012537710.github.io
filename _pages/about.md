@@ -104,11 +104,6 @@ Tips:
 * **[2026.01.26]** Two papers, including one first-author paper, were accepted to **ICLR 2026** **(CCF-A)**. ⭐⭐
 * **[2025.10.06]** One paper was accepted for publication in **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**. 🎉
 * **[2025.09.19]** One paper was accepted to **NeurIPS 2025** **(CCF-A)**. ⭐
-
-<details>
-<summary><strong>Older News</strong></summary>
-<div markdown="1">
-
 * **[2025.09.11]** One paper was accepted by **IEEE Transactions on Geoscience and Remote Sensing** **(CCF-B)**. 🎉
 * **[2025.09.04]** One paper was accepted by **IEEE Transactions on Emerging Topics in Computational Intelligence**. 🎉
 * **[2025.08.26]** One paper was accepted by **IEEE International Conference on Data Mining** **(CCF-B)**. 🎉
