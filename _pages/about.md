@@ -111,9 +111,6 @@ Tips:
 * **[2024.02.20]** One paper was accepted by **IEEE Transactions on Intelligent Vehicles**. 🎉
 * **[2020.07.20]** One paper was accepted by **Journal of Cleaner Production**. 🎉
 
-</div>
-</details>
-
 ---
 
 ## Professional Service
