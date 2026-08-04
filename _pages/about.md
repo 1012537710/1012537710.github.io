@@ -18,7 +18,6 @@ redirect_from:
   </p>
   <p style="margin-top: 0.9rem; margin-bottom: 0;">
     <a href="mailto:hanfujun@cuhk.edu.cn" style="display:inline-block; padding:0.38rem 0.75rem; margin-right:0.35rem; border-radius:999px; background:#2563eb; color:white; text-decoration:none;">📧 Email</a>
-    <a href="https://github.com/Hanfj-X" style="display:inline-block; padding:0.38rem 0.75rem; margin-right:0.35rem; border-radius:999px; background:#111827; color:white; text-decoration:none;">💻 GitHub</a>
     <!-- Optional: Add Google Scholar / ORCID / CV buttons here. -->
   </p>
 </div>
