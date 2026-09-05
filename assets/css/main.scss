@@ -47,3 +47,9 @@
   font-size: 12px;
   line-height: 1.2;
 }
+
+/* 页面整体变宽 */
+#main,
+.masthead__inner-wrap {
+  max-width: 1400px;
+}
