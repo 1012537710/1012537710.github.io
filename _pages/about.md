@@ -16,7 +16,7 @@ Besides, I serve as a reviewer for several excellent conferences and journals, i
 If you are interested in my research or have any questions, you can contact me via email: 📧 **Contact:** [hanfujun@cuhk.edu.cn](mailto:hanfujun@cuhk.edu.cn).
 
 ---
-## 🔥 News (Latest Acceptance Updates)
+## 🔥 News
 
 * **[2026.08.09]** A paper was accepted by **IEEE Transactions on Geoscience and Remote Sensing** (CCF-B).🎉
 * **[2026.06.08]** A paper was accepted by **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**. 🎉
