@@ -16,16 +16,14 @@ Besides, I serve as a reviewer for several excellent conferences and journals, i
 If you are interested in my research or have any questions, you can contact me via email: 📧 **Contact:** [hanfujun@cuhk.edu.cn](mailto:hanfujun@cuhk.edu.cn).
 
 ---
-## 🔥 arXiv (Latest Research Updates)
-* **[2026.06.02]** Our preprint, **"DiBS: Diffusion-Informed Branch Selection"**, is now available on **arXiv**. [[arXiv]](https://arxiv.org/abs/2606.06518)[[github]](https://github.com/shanxierdan/DiBS).
-* **[2026.04.24]** Our preprint, **"Can Multimodal Large Language Models Truly Understand Small Objects?"**, is now available on **arXiv**. [[arXiv]](https://arxiv.org/abs/2604.22884)[[github]](https://github.com/Hanfj-X/SOU).
-
 ## 🔥 News (Latest Acceptance Updates)
 
 * **[2026.08.09]** A paper was accepted by **IEEE Transactions on Geoscience and Remote Sensing** (CCF-B).🎉
 * **[2026.06.08]** A paper was accepted by **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**. 🎉
+* **[2026.06.02]** Our preprint, **"DiBS: Diffusion-Informed Branch Selection"**, is now available on **arXiv**.
 * **[2026.05.16]** A paper was accepted by **<font color=blue>KDD 2026</font>** **(CCF-A)**.⭐
 * **[2026.05.01]** A paper was accepted by **<font color=blue>ICML 2026</font>** **(CCF-A)**.⭐
+* **[2026.04.24]** Our preprint, **"Can Multimodal Large Language Models Truly Understand Small Objects?"**, is now available on **arXiv**.
 * **[2026.01.26]** A paper was accepted by **<font color=blue>ICLR 2026</font>** **(CCF-A)** as co-author.⭐
 * **[2026.01.26]** A paper was accepted by **<font color=blue>ICLR 2026</font>** **(CCF-A)** as first author.⭐
 * **[2025.10.06]** A paper was accepted by **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**. 🎉
