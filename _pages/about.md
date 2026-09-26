@@ -18,6 +18,7 @@ If you are interested in my research or have any questions, you can contact me v
 ---
 ## 🔥 News
 
+* **[2026.09.24]** Two papers were accepted by **<font color=blue>NeurIPS 2026</font>** **(CCF-A)**.⭐⭐
 * **[2026.08.09]** A paper was accepted by **IEEE Transactions on Geoscience and Remote Sensing** (CCF-B).🎉
 * **[2026.06.08]** A paper was accepted by **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**. 🎉
 * **[2026.06.02]** Our preprint, **"DiBS: Diffusion-Informed Branch Selection"**, is now available on **arXiv**.
